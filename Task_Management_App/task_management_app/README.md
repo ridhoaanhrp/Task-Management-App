@@ -18,4 +18,5 @@ This application was designed by a UI Designer named Musfiqur Rahman which was u
 
 # Preview
 
-C:\Users\user\OneDrive\Desktop\Screenshot_1648722231.png
+![Screenshot_1648722236](https://user-images.githubusercontent.com/55271500/161034588-cd283f95-4f31-4784-b2c5-9cd41daa3e8e.png)
+![Screenshot_1648722420](https://user-images.githubusercontent.com/55271500/161034638-9a718b93-f280-4fc4-8685-0b98613132d1.png)
