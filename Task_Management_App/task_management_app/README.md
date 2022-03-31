@@ -15,3 +15,7 @@ This application was designed by a UI Designer named Musfiqur Rahman which was u
 :point_down: Detailed design information can be seen in the link below :point_down: 
 
 - [Task Management App UI Design](https://dribbble.com/shots/17840223-Taskdo-Task-Management-Mobile-App-Design)
+
+# Preview
+
+C:\Users\user\OneDrive\Desktop\Screenshot_1648722231.png
