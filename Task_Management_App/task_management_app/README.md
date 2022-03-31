@@ -1,16 +1,17 @@
-# task_management_app
+# Hello there :wave:, I'm Ridho!
 
-A new Flutter project.
+Telkom University students who have an interest in learning to become a Flutter Developer
 
-## Getting Started
+# Implementation UI Design
 
-This project is a starting point for a Flutter application.
+Task Management App project.
 
-A few resources to get you started if this is your first Flutter project:
+# Description
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+It is a very practical application in task management. Great for freelance projects/teams/remote positions. With this application, we can add tasks, manage schedules, view todo lists, view progress and much more.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This application was designed by a UI Designer named Musfiqur Rahman which was uploaded on the Dribbble website. I implemented the design using Flutter.
+
+:point_down: Detailed design information can be seen in the link below :point_down: 
+
+- [Task Management App UI Design](https://dribbble.com/shots/17840223-Taskdo-Task-Management-Mobile-App-Design)
